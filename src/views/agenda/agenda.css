@@ -1,0 +1,11 @@
+
+
+.container-agenda{
+    display: flex;
+    flex-direction: column;
+}
+
+.div-peluqeros{
+    display: flex;
+    flex-direction: column;
+}
